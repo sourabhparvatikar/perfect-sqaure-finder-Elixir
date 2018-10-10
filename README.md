@@ -42,8 +42,8 @@ Result of running the program for:
 +++++++++++++++
 Sample Outputs:
 +++++++++++++++
-        1. 
-        time mix run persquare.ex 1000000 4
+        
+        1. time mix run persquare.ex 1000000 4
         []
 
         real	0m3.402s
