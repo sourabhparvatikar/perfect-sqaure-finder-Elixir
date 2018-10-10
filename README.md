@@ -32,9 +32,9 @@ Analysis on size of work unit:
                 - Extra time to sort the list of squared numbers.
                 - Master needs to wait till all the sqaures are computed by workers.
 
-++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++
 Result of running the program for:
-++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++
 
         mix run persquare.ex 1000000 4
         []
