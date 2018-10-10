@@ -9,11 +9,7 @@ Group Info:
 Instructions:
 +++++++++++++
 
-        1. Unzip the file 
-        2. A directory will be created with name "sourabh_gurupad"
-        3. Goto sourabh_gurupad directory and run:
-                cd persquare
-        4. Run the following command:
+        1. Run the following command:
                 time mix run persquare.ex <value_of_n> <value_of_k>
 
            Output:
@@ -25,7 +21,7 @@ Instructions:
         
            For examples refer sample outputs below
 
-        5. To see the code documentation, run "mix docs" in persquare directory. Open doc/index.html in web browser.
+        2. To see the code documentation, run "mix docs" in persquare directory. Open doc/index.html in web browser.
 
 ++++++++++++++++++++++++++++++
 Analysis on size of work unit:
