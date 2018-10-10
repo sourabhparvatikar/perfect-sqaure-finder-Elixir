@@ -1,10 +1,3 @@
-+++++++++++
-Group Info:
-+++++++++++
-
-        1. Sourabh Gopal Parvatikar, UFID: 7932-5142
-        2. Gurupad Hegde Mahabaleshwar, UFID: 7835-6173
-
 +++++++++++++
 Instructions:
 +++++++++++++
